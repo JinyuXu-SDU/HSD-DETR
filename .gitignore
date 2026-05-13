@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model weights
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Data
+data/
+datasets/
+
+# Logs
+runs/
+wandb/
+logs/
+
+# Claude
+.claude/
